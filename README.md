@@ -13,6 +13,6 @@ Implementation of custom view in the form of an analog clock. Demo project with 
 
 5. Clean, efficient and easy to read code.
 
-## Photos of fragments from the application
+## Photos of fragments from the app
 
 <img src="https://github.com/antonbadretdinov/VK-internship/blob/master/FirstFragment.png" width="200"> <img src="https://github.com/antonbadretdinov/VK-internship/blob/master/SecondFragment.png" width="200"> <img src="https://github.com/antonbadretdinov/VK-internship/blob/master/ThrirdFragment.png" width="200"> <img src="https://github.com/antonbadretdinov/VK-internship/blob/master/FourthFragment.png" width="200">
