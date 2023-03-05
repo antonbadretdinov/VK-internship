@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VKInternship</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nextBtn">next</string>
+    <string name="backBtn">back</string>
+</resources>
